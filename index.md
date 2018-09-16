@@ -1,19 +1,26 @@
-## Welcome to GitHub Pages
+## 欢迎来到我的github
 
-You can use the [editor on GitHub](https://github.com/dp2017/dp2017.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+这里是我的梦开始的地方，也是我展示自己的地方
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 个人经历
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+本人将于2019年毕业于石家庄铁道大学，是一名软件设计师，目前学习方向是大数据的数据分析。
+
+
+###工作经验
+
+本人目前掌握java python 和scala等编程语言
+
+对hadoop家族组件都有一定的了解，熟悉静态和流式数据的处理流程
+
+近期自学完用户画像，电商平台等数据量近百万的典型中小型数据分析项目
 
 ```markdown
-Syntax highlighted code block
+原来 markdown可以沾些代码呀~
 
-# Header 1
-## Header 2
-### Header 3
+# 保留下面的使用实例
+## 以后慢慢掌握学习
 
 - Bulleted
 - List
@@ -26,12 +33,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 我的联系方式
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dp2017/dp2017.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+本人博客园地址：https://home.cnblogs.com/u/du1269038969/
+QQ：1269038969
