@@ -19,14 +19,17 @@
 ```markdown
 原来 markdown可以粘贴代码呀~
 
-# 保留下面的使用实例
-## 以后慢慢掌握学习
+# 成就以及近期实况
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+- 英语六级
+- 系统架构设计师
+近期在准备这两门考试
+
+
+1. 全国思政课比赛优胜奖
+2. 软件中级设计师
+3. 拿校奖学金算成就吗？？？☺
 
 **Bold** and _Italic_ and `Code` text
 
