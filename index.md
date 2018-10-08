@@ -29,7 +29,8 @@
 
 ### 实践项目经历
 部分项目源代码在博客园中
-[github地址](https://github.com/dp2017/math)
+
+：[github地址](https://github.com/dp2017/math)
 
 
 
