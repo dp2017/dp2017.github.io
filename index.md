@@ -10,7 +10,7 @@
 本人将于2019年毕业于石家庄铁道大学，是一名软件中级设计师，目前学习方向是大数据的数据分析。
 
 ### 个人简历
-![Image](https://github.com/dp2017/dp2017.github.io/blob/master/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86_IMG/photo.png)
+![个人简历](https://github.com/dp2017/dp2017.github.io/blob/master/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86_IMG/photo.png)
 
 
 ### 学习经验
