@@ -34,7 +34,7 @@ github地址：[Link](https://github.com/dp2017/math)
 
 
 ```markdown
-原来 markdown可以粘贴代码呀~
+ markdown粘贴代码~
 
 # 成就以及近期实况
 
@@ -46,7 +46,7 @@ github地址：[Link](https://github.com/dp2017/math)
 
 1. 全国思政课比赛优胜奖
 2. 软件中级设计师
-3. 拿校奖学金算成就吗？？？☺
+3. 校二等奖学金☺
 
 **Bold** and _Italic_ and `Code` text
 
